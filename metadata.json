@@ -1,0 +1,5 @@
+{
+  "name": "PerpArbBot Dashboard",
+  "description": "A professional dashboard for monitoring funding rates across Aster, Lighter, Variational, and Based DEXs, identifying arbitrage opportunities in real-time.",
+  "requestFramePermissions": []
+}
